@@ -1,0 +1,16 @@
+{
+    "videos": [
+        {
+            "title": "Sample Video 1",
+            "description": "This is a description of sample video 1.",
+            "thumbnail_url": "assets/placeholder_thumbnail.png",
+            "video_url": "http://path-to-video.com/video1.mp4"
+        },
+        {
+            "title": "Sample Video 2",
+            "description": "This is a description of sample video 2.",
+            "thumbnail_url": "assets/placeholder_thumbnail.png",
+            "video_url": "http://path-to-video.com/video2.mp4"
+        }
+    ]
+}
