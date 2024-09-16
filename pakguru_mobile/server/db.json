@@ -1,26 +1,34 @@
 {
-    "videos": [
-        {
-            "title": "1 THE ENIGMA",
-            "description": "Shinnobu The Enigma VI 2018 Music for the soul Chillout New Age Gregorian Original Song's (New Album 2018) meditative and Espiritual. #Shinnobu commonly known as shinobu enigma, is a musical project. In the production he includes as a genre New Age and in the works a combination of musical instruments for deep meditation.",
-            "thumbnail_url": "assets/the_enigma_thumbnail.png",
-            "video_url": "https://www.youtube.com/watch?v=j4o-_92kxcE",
-            "tags": [
-                "Music",
-                "Meditation",
-                "Chillout"
-            ]
-        },
-        {
-            "title": "2 NO TEARS IN RAIN: Blade Runner 2049 Ambient Music | Cyberpunk Night City Background Sounds",
-            "description": "Immerse yourself in the futuristic, cyberpunk world of Blade Runner with this ASMR ambience video. Let the soothing sounds of rain from Blade Runner 2049 transport you to the neon-lit streets of Los Angeles.",
-            "thumbnail_url": "assets/notears_in_rain_thumbnail.png",
-            "video_url": "https://www.youtube.com/watch?v=dkbADJpUgaA",
-            "tags": [
-                "Music",
-                "Ambient",
-                "Cyberpunk"
-            ]
-        }
-    ]
+  "videos": [
+    {
+      "title": "1 THE ENIGMA",
+      "description": "Shinnobu The Enigma VI 2018 Music for the soul Chillout New Age Gregorian Original Song's (New Album 2018) meditative and Espiritual. #Shinnobu commonly known as shinobu enigma, is a musical project. In the production he includes as a genre New Age and in the works a combination of musical instruments for deep meditation.",
+      "thumbnail_url": "assets/the_enigma_thumbnail.png",
+      "video_url": "https://www.youtube.com/watch?v=j4o-_92kxcE",
+      "tags": ["Music", "Meditation", "Chillout"]
+    },
+    {
+      "title": "2 NO TEARS IN RAIN: Blade Runner 2049 Ambient Music | Cyberpunk Night City Background Sounds",
+      "description": "Immerse yourself in the futuristic, cyberpunk world of Blade Runner with this ASMR ambience video. Let the soothing sounds of rain from Blade Runner 2049 transport you to the neon-lit streets of Los Angeles.",
+      "thumbnail_url": "assets/notears_in_rain_thumbnail.png",
+      "video_url": "https://www.youtube.com/watch?v=dkbADJpUgaA",
+      "tags": ["Music", "Ambient", "Cyberpunk"]
+    },
+
+    {
+      "title": "4 Calming Waterfalls for Meditation",
+      "description": "Listen to the soothing sound of waterfalls, paired with serene ambient music, to enhance your meditation sessions and bring peace to your day.",
+      "thumbnail_url": "assets/waterfall_meditation_thumbnail.png",
+      "video_url": "https://www.youtube.com/watch?v=1ZYbU82GVz4",
+      "tags": ["Music", "Meditation", "Nature"]
+    },
+
+    {
+      "title": "8 Ethereal Sounds for Deep Relaxation",
+      "description": "Immerse yourself in the ethereal sounds that promote deep relaxation and mindfulness. Ideal for unwinding after a long day.",
+      "thumbnail_url": "assets/ethereal_sounds_thumbnail.png",
+      "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "tags": ["Music", "Relaxation", "Ethereal"]
+    }
+  ]
 }
