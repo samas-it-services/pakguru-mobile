@@ -14,7 +14,13 @@
       "video_url": "https://www.youtube.com/watch?v=dkbADJpUgaA",
       "tags": ["Music", "Ambient", "Cyberpunk"]
     },
-
+    {
+      "title": "3 Coke Studio Season 12 | Gulon Main Rang | Ali Sethi",
+      "description": " Gulon Main Rang, a ghazal by Faiz Ahmed Faiz that weaves multiple layers of meanings within images of blossoming springtime and romantic yearning.",
+      "thumbnail_url": "assets/cokestudio.jpg",
+      "video_url": "https://www.youtube.com/watch?v=hR8FEdC6aAs&list=RDhR8FEdC6aAs&start_radio=1",
+      "tags": ["Music", "CokeStudio12", "Gazal"]
+    },
     {
       "title": "4 Calming Waterfalls for Meditation",
       "description": "Listen to the soothing sound of waterfalls, paired with serene ambient music, to enhance your meditation sessions and bring peace to your day.",
@@ -22,6 +28,28 @@
       "video_url": "https://www.youtube.com/watch?v=1ZYbU82GVz4",
       "tags": ["Music", "Meditation", "Nature"]
     },
+    {
+      "title": "5 Tu Jhoom | Lyrics | Coke Studio | Abida Parveen, Naseebo Lal",
+      "description": "Tu Jhoom | Lyrics | Coke Studio  | Abida Parveen, Naseebo Lal Enjoy this soulful start to Coke Studio Season 14.",
+      "thumbnail_url": "assets/lyricallyyours.jpg",
+      "video_url": "https://www.youtube.com/watch?v=rvOmeMLVamg",
+      "tags": ["Music", "CokeStudio14"]
+    },
+    {
+      "title": "6 Laal Ishq (Slowed+Reverb) - Arijit Singh | Nexsandy",
+      "description": "Laal Ishq (Slowed+Reverb)",
+      "thumbnail_url": "assets/Nexsandy.jpg",
+      "video_url": "https://www.youtube.com/watch?v=RFHXy2sd2oo",
+      "tags": ["laalishqslowedc", "bollywoodlofi", "BollywoodMusic"]
+    },
+    {
+        "title": "7 Haan Ke Haan Song",
+        "description": "Experience the magic of love. Haan Ke Haan Song Out Now.",
+        "thumbnail_url": "assets/yrf.jpg",
+        "video_url": "https://www.youtube.com/watch?v=NDjeeJwI08Q",
+        "tags": ["netflixflim", "YRf-newrelease", "BollywoodMusic"]
+      },
+   
 
     {
       "title": "8 Ethereal Sounds for Deep Relaxation",
@@ -29,6 +57,20 @@
       "thumbnail_url": "assets/ethereal_sounds_thumbnail.png",
       "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
       "tags": ["Music", "Relaxation", "Ethereal"]
-    }
+    },
+    {
+        "title": "9 O Rangrez Full Video - Bhaag Milkha Bhaag|Farhan, Sonam|Shreya Ghoshal, Javed Bashir",
+        "description": "'O Rangrez' from 'Bhaag Milkha Bhaag' is a romantic number with spiritual essence attached to its music featuring Sonam Kapoor and Farhaan Akhtar",
+        "thumbnail_url": "assets/sonymusic.jpg",
+        "video_url": "https://www.youtube.com/watch?v=5idNBcKDtvA",
+        "tags": ["BhaagMilkhaBhaag", "ShreyaGhosal", "BollywoodMusic"]
+      },
+      {
+        "title": "10 Sanson Ki Mala (Violin Cover) ",
+        "description": "A tribute to Ustad Nusrat Fateh Ali Khan and living legend Ustad Rahat Fateh Ali Khan by Leo Twins..",
+        "thumbnail_url": "assets/leotwins.jpg",
+        "video_url": "https://www.youtube.com/watch?v=4jKkT3d8gdI",
+        "tags": ["Music", "Leo Twins", "The Quarantine Sessions"]
+      }
   ]
 }
